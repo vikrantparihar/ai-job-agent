@@ -1,67 +1,52 @@
-AI Job Application Agent 
-1️⃣ Project Overview
 
-Ye AI agent jobs ke liye end-to-end application automate karta hai.
+# AI Job Application Agent
 
-Job queue se jobs pick karta hai
-Resume tailor karta hai
-Cover letter generate karta hai
-ATS detect karta hai (Workday, Greenhouse, Lever, LinkedIn)
-Form fill karta hai intelligent logic se
-Auto submit karta hai
+## 🚀 Project Overview
+This project is an **AI Job Application Agent** that automates the end-to-end job application process.  
+It picks jobs from a queue, tailors the resume, generates a cover letter, detects ATS platforms, fills the application forms intelligently, and submits them automatically.  
 
-LinkedIn ya ATS login manual hai.
+> Manual login is required for LinkedIn or other ATS platforms.  
 
-2️⃣ Features
-Job queue handling multiple jobs
-Resume tailoring per job
-Cover letter generation
-Form filling using:
-Candidate DB
-Custom answers
-LLM inference
-HITL (Human-in-the-Loop) for ambiguous fields
-Backlog & failure logging
-Demo-ready with seeded jobs and user
-3️⃣ Setup Instructions
-Clone repo:
+---
+
+## 🎯 Features
+- **Job Queue:** Handles multiple jobs automatically.
+- **Resume Tailoring:** Customizes resume per job using candidate profile.
+- **Cover Letter Generation:** Automatically generates a professional cover letter.
+- **ATS Detection:** Supports Workday (required), Greenhouse, Lever, LinkedIn.
+- **Form Filling:** Intelligent filling via:
+  1. Candidate Database
+  2. Custom Answers (key-value pairs)
+  3. LLM inference for missing fields
+- **Human-in-the-Loop (HITL):** Pauses ambiguous fields, 30-second user input timeout.
+- **Demo Ready:** Pre-seeded user + 5–6 demo job URLs.
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+```bash
 git clone https://github.com/<your-username>/ai-job-application-agent.git
 cd ai-job-application-agent
-Install dependencies:
+Install dependencies
 pip install -r requirements.txt
-Copy .env.example → .env and add credentials
-Initialize DB + demo data:
+Add credentials
+Copy .env.example → .env
+Add your LinkedIn username and password
+(Optional) ATS API keys if required
+Initialize DB & seed demo data
 python db/seed_demo_data.py
-4️⃣ How to Run
+🏃 How to Run Demo
 python run_demo.py
-Manual login will be prompted
-Agent picks jobs → fills forms → submits automatically
-HITL triggers for ambiguous fields (30s timeout)
-5️⃣ Candidate DB
-Users: name, email, phone, resume_path
-Custom answers: notice period, relocation, salary expectation, etc.
-Jobs: URL, company, title, ATS platform, status, failure reason, unresolved fields
-6️⃣ ATS Detection
-Auto-detects platform from URL + DOM
-Supported: Workday, Greenhouse, Lever, LinkedIn
-7️⃣ HITL
-Triggered only for ambiguous fields
-Timeout 30 sec → no input → field logged in DB
-User input → auto-fill + saved for future
-8️⃣ Demo Recording
-File: demo_recording.mp4
-Shows:
-Manual login
-Job pick + ATS detection
-Resume + cover letter generation
-Form filling + HITL
-Auto submission
-Job status update
-9️⃣ Scaling Notes
-Multiple users → separate queues
-Concurrent agents → task queue system
-Backlog & retry handling built-in
-10️⃣ Notes
-Credentials only in .env
-Hardcoding URLs for demo is allowed
-Designed for Easy Apply + 3 ATS demo
+Manual login will be prompted.
+Agent will pick jobs, fill forms using:
+Candidate DB
+Custom answers
+LLM inference (if needed)
+HITL triggers for ambiguous fields with 30-second timeout.
+Once submitted, the agent moves to the next job automatically.
