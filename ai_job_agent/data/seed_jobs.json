@@ -1,0 +1,12 @@
+[
+    {
+      "url": "https://jobs.lever.co/company1",
+      "company": "Company1",
+      "title": "Software Engineer"
+    },
+    {
+      "url": "https://boards.greenhouse.io/company2",
+      "company": "Company2",
+      "title": "Backend Engineer"
+    }
+  ]

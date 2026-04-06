@@ -1,0 +1,19 @@
+AI Job Automation System
+
+This project implements an AI-powered job automation system using FastAPI, SQLite, and Selenium.
+
+The system allows users to submit job descriptions through an API endpoint. These jobs are stored in a SQLite database.
+
+A worker agent continuously monitors the database for pending jobs. Each job is evaluated using a keyword-based AI scoring system.
+
+If the job meets the threshold score, the system uses Selenium automation to open LinkedIn and attempt an Easy Apply process.
+
+The system includes logging for monitoring and retry mechanisms for handling failures.
+
+Technologies used:
+- FastAPI
+- SQLite
+- Selenium
+- Python
+
+This system demonstrates automation, AI decision-making, and backend architecture.

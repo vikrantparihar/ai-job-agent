@@ -1,0 +1,25 @@
+{
+  "personal_info": {
+    "first_name": "Mercor",
+    "last_name": "AI",
+    "email": "mercorai945@gmail.com",
+    "phone": "9584603250",
+    "location": "Indore, Madhya Pradesh, India"
+  },
+  "resume": "resume.pdf",
+  "work_history": [
+    {
+      "title": "Software Engineer",
+      "company": "ABC Corp",
+      "years": 3,
+      "skills": ["Python","Playwright","Web Automation"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "college": "Chandigarh University",
+      "year": 2024
+    }
+  ]
+}

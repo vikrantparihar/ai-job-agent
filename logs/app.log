@@ -1,0 +1,344 @@
+[2026-04-06 09:51:45] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 09:51:54] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 09:51:54] [INFO] 🔍 Finding search box (stable)...
+[2026-04-06 09:51:55] [INFO] ✅ Found search input at index 0
+[2026-04-06 09:51:55] [INFO] 🔎 Searching: AI Engineer
+[2026-04-06 09:52:02] [INFO] 📌 Jobs found: 0
+[2026-04-06 09:52:02] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 09:54:50] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 09:55:00] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 09:55:00] [INFO] 🔍 Finding search inputs...
+[2026-04-06 09:55:00] [INFO] ✅ Job title set: AI Engineer
+[2026-04-06 09:55:00] [ERROR] ⚠️ Location input not found
+[2026-04-06 09:55:00] [INFO] 🔎 Searching jobs...
+[2026-04-06 09:55:08] [INFO] 📌 Jobs found: 0
+[2026-04-06 09:55:08] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 09:58:29] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 09:58:40] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 09:58:40] [INFO] 🔍 Finding search inputs...
+[2026-04-06 09:58:40] [INFO] 🔎 Searching: AI Engineer
+[2026-04-06 09:58:48] [INFO] 📌 Jobs found: 0
+[2026-04-06 09:58:48] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:01:50] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:02:01] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 10:02:01] [INFO] 🔍 Finding search inputs...
+[2026-04-06 10:02:04] [INFO] ✅ Keyword selected
+[2026-04-06 10:02:12] [INFO] 📌 Jobs found: 0
+[2026-04-06 10:02:12] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:05:15] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:05:26] [INFO] 🔎 URL: https://www.linkedin.com/jobs/search/?currentJobId=4393558106&keywords=AI%20Engineer&location=India
+[2026-04-06 10:05:36] [INFO] 📌 Jobs found: 7
+[2026-04-06 10:05:36] [INFO] ➡️ Opening job 1
+[2026-04-06 10:05:42] [INFO] 🧠 Handling Easy Apply form...
+[2026-04-06 10:07:44] [INFO] ➡️ Next step
+[2026-04-06 10:10:17] [INFO] ➡️ Next step
+[2026-04-06 10:12:20] [INFO] ➡️ Next step
+[2026-04-06 10:14:22] [INFO] ➡️ Next step
+[2026-04-06 10:16:24] [INFO] ➡️ Next step
+[2026-04-06 10:16:24] [INFO] ⚠️ Form incomplete
+[2026-04-06 10:16:57] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Timeout 29994ms exceeded.
+Call log:
+  - attempting scroll into view action
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+    - waiting 20ms
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+      - waiting 100ms
+    56 × waiting for element to be stable
+       - element is not visible
+     - retrying scroll into view action
+       - waiting 500ms
+
+[2026-04-06 10:17:29] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Timeout 29992ms exceeded.
+Call log:
+  - attempting scroll into view action
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+    - waiting 20ms
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+      - waiting 100ms
+    56 × waiting for element to be stable
+       - element is not visible
+     - retrying scroll into view action
+       - waiting 500ms
+
+[2026-04-06 10:18:01] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Timeout 29992ms exceeded.
+Call log:
+  - attempting scroll into view action
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+    - waiting 20ms
+    2 × waiting for element to be stable
+      - element is not visible
+    - retrying scroll into view action
+      - waiting 100ms
+    56 × waiting for element to be stable
+       - element is not visible
+     - retrying scroll into view action
+       - waiting 500ms
+
+[2026-04-06 10:18:03] [INFO] ➡️ Opening job 2
+[2026-04-06 10:18:09] [INFO] 🧠 Handling Easy Apply form...
+[2026-04-06 10:18:11] [ERROR] Form error: Locator.count: Target page, context or browser has been closed
+[2026-04-06 10:18:13] [ERROR] ⚠️ Error: Locator.count: Target page, context or browser has been closed
+[2026-04-06 10:18:13] [INFO] ➡️ Opening job 3
+[2026-04-06 10:18:13] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:15] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:17] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:19] [INFO] ➡️ Opening job 4
+[2026-04-06 10:18:19] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:21] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:23] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:25] [INFO] ➡️ Opening job 5
+[2026-04-06 10:18:25] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:27] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:29] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:31] [INFO] ➡️ Opening job 6
+[2026-04-06 10:18:31] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:33] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:35] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:37] [INFO] ➡️ Opening job 7
+[2026-04-06 10:18:37] [ERROR] Click failed (attempt 1): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:39] [ERROR] Click failed (attempt 2): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:41] [ERROR] Click failed (attempt 3): Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 10:18:43] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:19:45] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:19:55] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 10:23:09] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:23:19] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 10:23:19] [INFO] 🔍 Finding search inputs (smart)...
+[2026-04-06 10:23:24] [ERROR] ❌ Smart search failed → using fallback input
+[2026-04-06 10:26:28] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:26:38] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 10:26:38] [INFO] 🔍 Finding REAL visible search input...
+[2026-04-06 10:26:38] [INFO] ✅ Found search input at index 0
+[2026-04-06 10:26:38] [INFO] 🔎 Searching: AI Engineer
+[2026-04-06 10:26:46] [INFO] 📌 Jobs found: 0
+[2026-04-06 10:26:46] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:31:10] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:31:21] [INFO] 🔎 URL: https://www.linkedin.com/jobs/
+[2026-04-06 10:31:21] [INFO] 🔍 Finding job + location inputs...
+[2026-04-06 10:31:21] [INFO] ✅ Job filled
+[2026-04-06 10:31:21] [INFO] 🔎 Searching: AI Engineer in India
+[2026-04-06 10:31:29] [INFO] 📌 Jobs found: 0
+[2026-04-06 10:31:29] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:41:20] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:48:26] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:48:41] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 10:48:41] [INFO] 📌 Jobs found: 0
+[2026-04-06 10:48:41] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 10:51:47] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:51:57] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 10:51:57] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 10:52:29] [ERROR] ❌ Jobs not loaded
+[2026-04-06 10:58:22] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 10:58:36] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 10:58:36] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 10:59:01] [ERROR] ❌ Jobs not loaded (check debug_jobs.png)
+[2026-04-06 11:02:22] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 11:02:30] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 11:02:30] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 11:02:34] [INFO] 📌 Jobs found: 60
+[2026-04-06 11:02:34] [INFO] ➡️ Opening job 1
+[2026-04-06 11:02:37] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:02:37] [INFO] ➡️ Opening job 2
+[2026-04-06 11:02:42] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:02:42] [INFO] ➡️ Opening job 3
+[2026-04-06 11:03:12] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:03:44] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:04:16] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:04:18] [INFO] ➡️ Opening job 4
+[2026-04-06 11:04:48] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(3)
+
+[2026-04-06 11:05:20] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(3)
+
+[2026-04-06 11:05:52] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(3)
+
+[2026-04-06 11:05:54] [INFO] ➡️ Opening job 5
+[2026-04-06 11:06:24] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(4)
+
+[2026-04-06 11:06:56] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(4)
+    - waiting for" https://www.linkedin.com/uas/login-submit" navigation to finish...
+    - navigated to "https://www.linkedin.com/checkpoint/challenge/AgGyCxCDTw3T_AAAAZ1hSyz0qci1yxwPllcaU_07RApiTyYBhFLTpvtxas4ZwUj445eqnWoGPODWB9dt2FF6TAK88FBWbQ?ut=2AF4ascfBMxsc1"
+
+[2026-04-06 11:07:28] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(4)
+    - waiting for" https://www.linkedin.com/checkpoint/challenge/verify" navigation to finish...
+    - navigated to "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-at-apple-4359245299?position=2&pageNum=0&refId=Q8U%2BM4%2FB4qO35aVlnb5Ttg%3D%3D&trackingId=0QkSjwr4liR9uZH6Gucryw%3D%3D&originalS…"
+
+[2026-04-06 11:07:30] [INFO] ➡️ Opening job 6
+[2026-04-06 11:08:00] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(5)
+
+[2026-04-06 11:08:32] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(5)
+
+[2026-04-06 11:09:04] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(5)
+
+[2026-04-06 11:09:06] [INFO] ➡️ Opening job 7
+[2026-04-06 11:09:36] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(6)
+
+[2026-04-06 11:09:50] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 11:09:58] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 11:09:58] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 11:10:02] [INFO] 📌 Jobs found: 60
+[2026-04-06 11:10:02] [INFO] ➡️ Opening job 1
+[2026-04-06 11:10:05] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:10:05] [INFO] ➡️ Opening job 2
+[2026-04-06 11:10:11] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:10:11] [INFO] ➡️ Opening job 3
+[2026-04-06 11:10:31] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 11:10:39] [INFO] 🌐 Search URL: https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer&location=India
+[2026-04-06 11:10:39] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 11:10:43] [INFO] 📌 Jobs found: 60
+[2026-04-06 11:10:43] [INFO] ➡️ Opening job 1
+[2026-04-06 11:10:46] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:10:46] [INFO] ➡️ Opening job 2
+[2026-04-06 11:10:52] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:10:52] [INFO] ➡️ Opening job 3
+[2026-04-06 11:11:22] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:11:54] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:12:26] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(2)
+
+[2026-04-06 11:12:28] [INFO] ➡️ Opening job 4
+[2026-04-06 11:12:50] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("ul.jobs-search__results-list li").nth(3)
+
+[2026-04-06 11:12:52] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:12:54] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:12:56] [INFO] ➡️ Opening job 5
+[2026-04-06 11:12:56] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:12:58] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:00] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:02] [INFO] ➡️ Opening job 6
+[2026-04-06 11:13:02] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:04] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:06] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:08] [INFO] ➡️ Opening job 7
+[2026-04-06 11:13:08] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:10] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:12] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:14] [INFO] ➡️ Opening job 8
+[2026-04-06 11:13:14] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:16] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:18] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:20] [INFO] ➡️ Opening job 9
+[2026-04-06 11:13:20] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:22] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:24] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:26] [INFO] ➡️ Opening job 10
+[2026-04-06 11:13:26] [ERROR] Click retry 1: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:28] [ERROR] Click retry 2: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:13:30] [ERROR] Click retry 3: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2026-04-06 11:32:12] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 11:32:20] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 11:32:37] [INFO] ✅ Jobs loaded
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [ERROR] ⚠️ Job error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+    at eval (eval at evaluate (:290:30), <anonymous>:1:12)
+    at UtilityScript.evaluate (<anonymous>:297:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-04-06 11:32:37] [INFO] 🎯 DONE: Applied 0
+[2026-04-06 11:34:25] [INFO] 👉 Opening LinkedIn Jobs...
+[2026-04-06 11:34:33] [INFO] 🔄 Loading jobs by scrolling...
+[2026-04-06 11:34:50] [INFO] ✅ Jobs loaded
+[2026-04-06 11:34:53] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:34:58] [INFO] ⏭ Skipped (No Easy Apply)
+[2026-04-06 11:34:58] [INFO] 🎯 DONE: Applied 0
