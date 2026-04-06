@@ -25,6 +25,27 @@ It picks jobs from a queue, tailors the resume, generates a cover letter, detect
 
 ## 📂 Repository Structure
 
+ai-job-application-agent/
+│
+├─ README.md                  # Assignment-ready README
+├─ .env.example               # Credentials template
+├─ requirements.txt           # Python dependencies
+├─ run_demo.py                # Main demo runner
+├─ demo_recording.mp4         # Demo screen recording (to add after recording)
+│
+├─ agent/
+│   ├─ __init__.py
+│   ├─ main.py                # Job queue orchestration
+│   ├─ browser.py             # Playwright automation
+│   ├─ ats_detection.py       # ATS detection logic
+│   ├─ form_filler.py         # Field mapping + HITL placeholders
+│   ├─ resume.py              # Tailored resume logic
+│   └─ cover_letter.py        # Cover letter generation
+│
+├─ db/
+│   ├─ models.py              # Candidate DB schema
+│   └─ seed_demo_data.py      # Demo user + 5–6 job URLs
+
 ---
 
 ## ⚙️ Setup Instructions
