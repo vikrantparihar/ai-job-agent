@@ -7,3 +7,6 @@ __pycache__/
 logs/
 linkedin_profile/
 user_data/
+.env
+*.pyc
+__pycache__/
