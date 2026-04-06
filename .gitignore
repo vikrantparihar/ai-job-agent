@@ -1,12 +1,9 @@
-venv/
+# Python
 __pycache__/
-*.db
-*.log
-*.png
-.env
-logs/
-linkedin_profile/
-user_data/
-.env
 *.pyc
-__pycache__/
+
+# Local data
+services/user_data/
+
+# Environment variables
+.env
