@@ -1,7 +1,9 @@
 venv/
 __pycache__/
 *.db
-*.png
 *.log
+*.png
 .env
 logs/
+linkedin_profile/
+user_data/
